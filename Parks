@@ -1,0 +1,33 @@
+  #locations {
+    background-image: url("https://cdn.wallpapersafari.com/41/4/DJ0b3h.jpg");
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: 50px;
+  }
+  .btn1 {
+    display: inline-block;
+    padding: 10px 30px;
+    background: var(--primary-color);
+    color: #f9989f;
+    border-radius: 5px;
+    border: solid #f9989f 1px;
+    margin-top: 25px;
+    opacity: 0.4;
+    }
+  .map1 {
+    position: relative;
+    right: 650px;
+    top:95px
+  }
+  .map2 {
+    position: relative;
+    bottom: 395px;
+  }
+  .map3{
+    position: relative;
+    bottom: 890px;
+    left: 650px;
+  }
